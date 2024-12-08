@@ -439,6 +439,7 @@ shapely==2.0.6
 shellingham==1.5.4
 simple-parsing==0.1.6
 six==1.16.0
+sklearn
 sklearn-pandas==2.2.0
 slicer==0.0.8
 smart-open==7.0.5
