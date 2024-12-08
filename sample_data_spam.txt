@@ -1,0 +1,23 @@
+Spam Messages:
+"Hurry up! Your exclusive offer is about to expire! Get 50% off on everything. Visit our website now!"
+"You’ve been selected for a special prize! Claim your $1000 Amazon gift card now at: www.fakeprizes.com"
+"Congratulations! You've won a free vacation to the Bahamas! Call now to book your flight!"
+"Limited time offer: Buy one, get one free! Click here to claim your free iPhone: www.discount-offer.com"
+"Get your loan approved with zero interest rates! Apply now at www.financelending.com"
+"Earn $500 a day working from home! Sign up today at www.joboffer.com"
+"This is your final warning: Your account has been compromised. Click the link to verify your identity."
+"Congratulations! You've been pre-approved for a $5000 credit card! Apply now before the offer expires!"
+"Act now! Last chance to buy exclusive stock market tips for only $9.99. Limited spots available!"
+"Don’t miss out on this amazing offer! Get a free iPad with every order! Click here for more info."
+
+Ham Messages:
+"Hi, just wanted to check if you're available for a meeting tomorrow. Let me know when works for you."
+"I’ll be in the office at 10 AM tomorrow. Let’s catch up about the project."
+"Looking forward to seeing you this weekend at the family gathering!"
+"Can you send me the report by the end of the day? Thanks."
+"Hey, I just finished reading the article you sent me. It was great! Thanks for sharing."
+"I hope you had a great weekend! Let’s talk about the upcoming presentation."
+"It was nice talking to you today. Let me know if you have any questions about the project."
+"I’m running late for our meeting. I should be there in 15 minutes."
+"Thanks for the invite! I’ll confirm my attendance for the event shortly."
+"I’ve updated the spreadsheet you requested. Let me know if you need any changes."
