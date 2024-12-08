@@ -11,7 +11,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
     <div align="center">
-  <img src="https://github.com/aysh01/P3-Spam-Mail-Classification-Using-NLP-and-ML/blob/main/Aayush%20%20Kantak_offer_letter_page-0001.jpg" width="300" height="300"/><br>
+  <img src="https://github.com/aysh01/P3-Spam-Mail-Classification-Using-NLP-and-ML/blob/main/Aayush%20%20Kantak_offer_letter_page-0001.jpg" width="400" height="400"/><br>
       <hr>
       <div align="left">
 :woman_technologist: This, is a AICTE Internship offered by <a href="https://edunetfoundation.org/" style="text-decoration:none;">Edunet Foundation</a> - A joint CSR Initiative by <a href="https://techsaksham.org/">TechSaksham</a>, Microsoft, and SAP.<br>
