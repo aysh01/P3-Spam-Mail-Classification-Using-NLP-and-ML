@@ -1,7 +1,5 @@
 import streamlit as stream
 import pickle as pkl
-# import os
-# os.system('pip install -r requirements.txt')
           
 with open('spam_model.pkl', 'rb') as model:
     spam_model = pkl.load(model)
